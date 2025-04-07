@@ -1,7 +1,7 @@
 
 stremalit
 numpy
-opencv-python=
+opencv-python
 setuptools
 tk
 PIL
