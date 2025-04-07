@@ -1,8 +1,7 @@
-
 streamlit
 numpy
 opencv-python
 setuptools
-pillow
+Pillow
 streamlit-webrtc
 mediapipe
