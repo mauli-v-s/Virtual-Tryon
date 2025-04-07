@@ -4,6 +4,6 @@ numpy
 opencv-python
 setuptools
 tk
-PIL
+pillow
 streamlit-webrtc
 mediapipe
