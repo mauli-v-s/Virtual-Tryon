@@ -3,7 +3,6 @@ streamlit
 numpy
 opencv-python
 setuptools
-tk
 pillow
 streamlit-webrtc
 mediapipe
