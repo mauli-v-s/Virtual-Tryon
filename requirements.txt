@@ -1,5 +1,5 @@
 
-stremalit
+streamlit
 numpy
 opencv-python
 setuptools
